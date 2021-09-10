@@ -1,2 +1,2 @@
 # web-assets-includer
-Include Scripts and CSS files in the document head.
+Simple function to include Scripts and CSS files in the document head.
