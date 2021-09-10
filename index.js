@@ -12,7 +12,7 @@ const head = document.getElementsByTagName('head')[0];
  * @async
  */
 export default function includeWebAssets(...assets) {
-    return new Promise((resolve, reject) => {
+    return new Promise((resolve) => {
         if (assets.length > 1) {
             for (let ass of assets) {
                 Promise.all(file.map(f => includeWebAssets(ass))).then(resolve);
