@@ -1,0 +1,17 @@
+{
+  "name": "include-web-assets",
+  "version": "1.0.0",
+  "description": "Simple function to include Scripts and CSS files in the document head.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elasthink/include-web-assets.git"
+  },
+  "author": "terangel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elasthink/include-web-assets/issues"
+  },
+  "homepage": "https://github.com/elasthink/include-web-assets#readme"
+}
