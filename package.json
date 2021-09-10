@@ -2,7 +2,7 @@
   "name": "include-web-assets",
   "version": "1.0.0",
   "description": "Simple function to include Scripts and CSS files in the document head.",
-  "main": "index.js",
+  "module": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
